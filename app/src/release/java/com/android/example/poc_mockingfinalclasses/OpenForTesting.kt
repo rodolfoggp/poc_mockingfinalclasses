@@ -1,3 +1,2 @@
-/*
 @Target(AnnotationTarget.CLASS)
-annotation class OpenForTesting*/
+annotation class OpenForTesting

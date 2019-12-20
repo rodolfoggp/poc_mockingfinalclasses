@@ -7,6 +7,6 @@ class FinalDependency {
 
     val message = "I am using a real implementation"
 
-    fun notMockedFunction() = "hello"
+    fun notMockedFunction() = "I will not be mocked"
 }
 
